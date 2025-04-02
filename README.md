@@ -2,7 +2,7 @@
 
 Materials recommended by UDDAN to study different technologies and languages.
 
-You can find materials from different media, such as:
+You can find materials from different types, such as:
 
 - Free courses
 - YouTube channels

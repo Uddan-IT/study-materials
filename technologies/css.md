@@ -2,30 +2,30 @@
 
 ## Free Courses
 
-- [Learn CSS (Codecademy)](https://www.codecademy.com/learn/learn-css)
-- [Learn HTML and CSS (Scrimba)](https://scrimba.com/learn-html-and-css-c0p)
-- [Learn HTML CSS](https://learnhtmlcss.online/)
-- [Responsive Web Design (freeCodeCamp.org)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [Learn CSS](https://www.codecademy.com/learn/learn-css): From Codecademy, this 6 hour course offers certificate of completion
+- [Learn HTML and CSS](https://scrimba.com/learn-html-and-css-c0p): From Scrimba, this 6 hour course offers certificate of completion
+- [Learn HTML CSS](https://learnhtmlcss.online/): Interactive environment with short lessons and flashcards
+- [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/): From FreeCodeCamp, it includes several projects and challenges
 
 ## YouTube channels
 
-- [Kevin Powell](https://www.youtube.com/@KevinPowell)
-- [Sajid](https://www.youtube.com/@whosajid)
-- [Slaying The Dragon](https://www.youtube.com/@slayingthedragon)
+- [Kevin Powell](https://www.youtube.com/@KevinPowell): How tos, tutorials and simple tips and tricks
+- [Sajid](https://www.youtube.com/@whosajid): Design concepts from developers
+- [Slaying The Dragon](https://www.youtube.com/@slayingthedragon): Technical explainations about CSS features
 
 ## Games and activities
 
-- [Anchoreum](https://anchoreum.com/)
-- [CSSBattle](https://cssbattle.dev/)
-- [Flexbox Froggy](https://flexboxfroggy.com/)
-- [Grid Garden](https://cssgridgarden.com/)
+- [Anchoreum](https://anchoreum.com/): Game for learning CSS anchor positioning
+- [CSSBattle](https://cssbattle.dev/): Daily challeges to reproduce patterns using CSS
+- [Flexbox Froggy](https://flexboxfroggy.com/): Game for learning CSS flexbox
+- [Grid Garden](https://cssgridgarden.com/): Game for learning CSS grid
 
 ## Extensions and frameworks
 
-- [Bootstrap](https://getbootstrap.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/): Front-end framework used on legacy projects
+- [Tailwind CSS](https://tailwindcss.com/): Front-end framwork used on modern projects
 
 ## Tools
 
-- [Coolors](https://coolors.co/)
-- [Iconify Design](https://iconify.design/)
+- [Coolors](https://coolors.co/): Color palette generator
+- [Iconify Design](https://iconify.design/): Search for icons from multiple libraries

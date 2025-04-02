@@ -4,7 +4,7 @@
 
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/): From FreeCodeCamp, it includes several projects and challenges
 - [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript): From Codecademy, this 15 hour course offers certificate of completion
-- [Learn JavaScript (Scrimba)](https://scrimba.com/learn-javascript-c0v): From Scrimba, this 9 hour course offers certificate of completion
+- [Learn JavaScript](https://scrimba.com/learn-javascript-c0v): From Scrimba, this 9 hour course offers certificate of completion
 - [Learn JavaScript](https://learnjavascript.online/): Interactive environment with short lessons and flashcards
 
 ## YouTube channels

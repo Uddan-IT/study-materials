@@ -22,7 +22,7 @@
 ## Extensions and frameworks
 
 - [jQuery](https://jquery.com/): Library used on legacy projects
-- [Vue.js](https://vuejs.org/): Library used on modern projects
+- [Vue.js](https://vuejs.org/): Framework used on modern projects
 
 ## Tools
 

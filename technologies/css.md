@@ -9,21 +9,21 @@
 
 ## YouTube channels
 
-- [Kevin Powell](https://www.youtube.com/@KevinPowell): How tos, tutorials and simple tips and tricks
-- [Sajid](https://www.youtube.com/@whosajid): Design concepts from developers
+- [Kevin Powell](https://www.youtube.com/@KevinPowell): How-tos, tutorials and simple tips and tricks
+- [Sajid](https://www.youtube.com/@whosajid): Design concepts for developers
 - [Slaying The Dragon](https://www.youtube.com/@slayingthedragon): Technical explainations about CSS features
 
 ## Games and activities
 
-- [Anchoreum](https://anchoreum.com/): Game for learning CSS anchor positioning
+- [Anchoreum](https://anchoreum.com/): Game for learning anchor positioning
 - [CSSBattle](https://cssbattle.dev/): Daily challeges to reproduce patterns using CSS
-- [Flexbox Froggy](https://flexboxfroggy.com/): Game for learning CSS flexbox
-- [Grid Garden](https://cssgridgarden.com/): Game for learning CSS grid
+- [Flexbox Froggy](https://flexboxfroggy.com/): Game for learning flexbox
+- [Grid Garden](https://cssgridgarden.com/): Game for learning grid
 
 ## Extensions and frameworks
 
-- [Bootstrap](https://getbootstrap.com/): Front-end framework used on legacy projects
-- [Tailwind CSS](https://tailwindcss.com/): Front-end framwork used on modern projects
+- [Bootstrap](https://getbootstrap.com/): Framework used on legacy projects
+- [Tailwind CSS](https://tailwindcss.com/): Framwork used on modern projects
 
 ## Tools
 

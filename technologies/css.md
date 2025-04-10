@@ -22,10 +22,12 @@
 
 ## Extensions and frameworks
 
-- [Bootstrap](https://getbootstrap.com/): Framework used on legacy projects
-- [Tailwind CSS](https://tailwindcss.com/): Framework used on modern projects
+- [Bootstrap](https://getbootstrap.com/): Framework used in legacy projects
+- [OutSystems UI](https://outsystemsui.outsystems.com/OutSystemsUIWebsite/CheatSheet): Framework used in OutSystems projects
+- [Tailwind CSS](https://tailwindcss.com/): Framework used in modern projects
 
 ## Tools
 
+- [BEM](https://getbem.com/): Methodology to name classes
 - [Coolors](https://coolors.co/): Color palette generator
 - [Iconify Design](https://iconify.design/): Search for icons from multiple libraries

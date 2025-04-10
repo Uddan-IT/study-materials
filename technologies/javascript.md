@@ -21,8 +21,8 @@
 
 ## Extensions and frameworks
 
-- [jQuery](https://jquery.com/): Library used on legacy projects
-- [Vue.js](https://vuejs.org/): Framework used on modern projects
+- [jQuery](https://jquery.com/): Library used in legacy projects
+- [Vue.js](https://vuejs.org/): Framework used in modern projects
 
 ## Tools
 

@@ -1,5 +1,9 @@
 # JavaScript
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript logo" height="64" />
+
+[Official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ## Free Courses
 
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/): From FreeCodeCamp, it includes several projects and challenges
@@ -9,6 +13,7 @@
 
 ## YouTube channels
 
+- [JSConf](https://www.youtube.com/@jsconf_): International talks about JavaScript topics
 - [Maximilian Schwarzmüller](https://www.youtube.com/@maximilian-schwarzmueller): Course instructor that shares opinions on coding
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified): Deep dives into advanced topics
 

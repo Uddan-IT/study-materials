@@ -14,4 +14,5 @@ You can find materials from different types, such as:
 ## Technologies
 
 - [CSS](technologies/css.md)
+- [Git](technologies/git.md)
 - [JavaScript](technologies/javascript.md)

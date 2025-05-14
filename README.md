@@ -16,3 +16,4 @@ You can find materials from different types, such as:
 - [CSS](technologies/css.md)
 - [Git](technologies/git.md)
 - [JavaScript](technologies/javascript.md)
+- [Vue.js](technologies/vuejs.md)

@@ -29,3 +29,7 @@
 - [GitHub Desktop](https://desktop.github.com/): Git client for Windows, Mac and Linux
 - [GitKraken](https://www.gitkraken.com/): Git client for Windows, Mac and Linux with a free trial
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Git client for Visual Studio Code with additional features
+
+## Cheatsheet
+
+- [QuickRef.ME](https://quickref.me/git): A complete quick reference for beginners

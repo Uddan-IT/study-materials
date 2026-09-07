@@ -24,3 +24,11 @@
 ## Tools
 
 - [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar): Language support for Vue.js in Visual Studio Code
+
+## Cheatsheet
+
+- [LearnVue](https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf): A complete quick reference for beginners
+
+## Related study materials
+
+- [JavaScript](javascript.md)

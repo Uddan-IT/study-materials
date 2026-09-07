@@ -32,6 +32,10 @@
 
 - [regex101](https://regex101.com/): Build, test and debug regular expressions
 
+## Cheatsheet
+
+- [QuickRef.ME](https://quickref.me/javascript): A complete quick reference for beginners
+
 ## Related study materials
 
 - [Vue.js](vuejs.md)

@@ -10,6 +10,8 @@ You can find materials from different types, such as:
 - Games and activities
 - Extensions and frameworks
 - Tools
+- Cheatsheet
+- Related study materials
 
 ## Technologies
 

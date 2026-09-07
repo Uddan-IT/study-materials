@@ -34,3 +34,7 @@
 - [BEM](https://getbem.com/): Methodology to name classes
 - [Coolors](https://coolors.co/): Color palette generator
 - [Iconify Design](https://iconify.design/): Search for icons from multiple libraries
+
+## Cheatsheet
+
+- [QuickRef.ME](https://quickref.me/css3): A complete quick reference for beginners

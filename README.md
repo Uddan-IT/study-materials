@@ -1,6 +1,6 @@
 # UDDAN Study Materials
 
-Materials recommended by UDDAN to study different technologies and languages.
+Materials recommended by [UDDAN](https://uddanit.com/) to study different technologies and languages.
 
 You can find materials from different types, such as:
 

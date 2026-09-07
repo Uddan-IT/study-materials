@@ -1,6 +1,7 @@
 # Git
 
-![Logo](https://cdn.simpleicons.org/git)
+![Logo](https://cdn.simpleicons.org/git?size=64)
+
 [Official documentation](https://git-scm.com/doc)
 
 ## Free Courses

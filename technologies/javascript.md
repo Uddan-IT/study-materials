@@ -1,6 +1,7 @@
 # JavaScript
 
-![Logo](https://cdn.simpleicons.org/javascript)
+![Logo](https://cdn.simpleicons.org/javascript?size=64)
+
 [Official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Free Courses

@@ -1,6 +1,7 @@
 # CSS
 
-![Logo](https://cdn.simpleicons.org/css)
+![Logo](https://cdn.simpleicons.org/css?size=64)
+
 [Official documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Free Courses

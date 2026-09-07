@@ -1,6 +1,7 @@
 # Vue.js
 
-![Logo](https://cdn.simpleicons.org/vue.js)
+![Logo](https://cdn.simpleicons.org/vue.js?size=64)
+
 [Official documentation](https://vuejs.org/)
 
 ## Free Courses

@@ -1,7 +1,6 @@
 # Vue.js
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="Vue.js logo" height="64" />
-
+![Logo](https://cdn.simpleicons.org/vue.js)
 [Official documentation](https://vuejs.org/)
 
 ## Free Courses

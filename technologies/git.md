@@ -1,7 +1,6 @@
 # Git
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git logo" height="64" />
-
+![Logo](https://cdn.simpleicons.org/git)
 [Official documentation](https://git-scm.com/doc)
 
 ## Free Courses

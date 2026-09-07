@@ -1,7 +1,6 @@
 # CSS
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo" height="64" />
-
+![Logo](https://cdn.simpleicons.org/css)
 [Official documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Free Courses

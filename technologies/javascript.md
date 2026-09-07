@@ -1,7 +1,6 @@
 # JavaScript
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript logo" height="64" />
-
+![Logo](https://cdn.simpleicons.org/javascript)
 [Official documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Free Courses
